@@ -2,6 +2,8 @@
 
 A simple pokemon working like a pokedex for info about Pokemons 
 
+<img src="./screen-shot1.png" height="600">
+<img src="./screen-shot2.png" height="600">
 
 ## Getting Started
 
